@@ -18,7 +18,7 @@ Minha trajetória começou na área de **dados** — montando dashboards interat
 
 Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu fluência em inglês e experiência em ambientes multiculturais.
 
-🌐 Confira meu portfólio: **[gabrielmoraes.dev.br](https://www.gabrielmoraes.dev.br)**
+🌐 Confira meu site de apresentação: **[gabrielmoraes.dev.br](https://www.gabrielmoraes.dev.br)**
 
 ---
 
@@ -30,6 +30,7 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" style="background-color:white; border-radius:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" style="background-color:white; border-radius:4px;"/>
 </p>
 
@@ -59,9 +60,15 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
-**[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile feito em **React Native + Expo**, com backend em **Supabase**, focado em coleta seletiva/reciclagem.
+- **[Barbearia MVP](https://github.com/GabrielMoraes02/barbearia-frontendmvp)** — Sistema completo de gestão para barbearia (MVP acadêmico): cadastro de barbeiros e serviços, agendamentos com grade de horários, registro de atendimentos e relatórios de faturamento.
+  - Frontend: HTML, CSS e JavaScript puro ([barbearia-frontendmvp](https://github.com/GabrielMoraes02/barbearia-frontendmvp))
+  - Backend: API REST em Python + Flask + SQLite, com documentação Swagger ([barbearia-backendmvp](https://github.com/GabrielMoraes02/barbearia-backendmvp))
+
+- **[site_rifa](https://github.com/GabrielMoraes02/site_rifa)** — Sistema de rifa online desenvolvido em **Django**.
+
+- **[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile feito em **React Native + Expo**, com backend em **Supabase**, focado em coleta seletiva/reciclagem.
 
 ---
 
@@ -81,7 +88,7 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.gabrielmoraes.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
