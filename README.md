@@ -56,6 +56,14 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="background-color:white; border-radius:4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" style="background-color:white; border-radius:4px;"/>
+  <img src="https://cdn.simpleicons.org/cloudinary" width="40" height="40" title="Cloudinary"/>
+</p>
+
+**Integrações & APIs**
+<p>
+  <img src="https://cdn.simpleicons.org/mercadopago" width="40" height="40" title="Mercado Pago"/>
+  <img src="https://cdn.simpleicons.org/brevo" width="40" height="40" title="Brevo"/>
 </p>
 
 ---
@@ -66,7 +74,7 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
   - Frontend: HTML, CSS e JavaScript puro ([barbearia-frontendmvp](https://github.com/GabrielMoraes02/barbearia-frontendmvp))
   - Backend: API REST em Python + Flask + SQLite, com documentação Swagger ([barbearia-backendmvp](https://github.com/GabrielMoraes02/barbearia-backendmvp))
 
-- **[site_rifa](https://github.com/GabrielMoraes02/site_rifa)** — Sistema de rifa online desenvolvido em **Django**.
+- **[site_rifa](https://github.com/GabrielMoraes02/site_rifa)** — Sistema de rifa online com **Django**, painel administrativo, pagamento via **Mercado Pago** (Pix/checkout), upload de imagens com **Cloudinary**, envio de e-mails transacionais com **Brevo** e deploy na **Vercel**.
 
 - **[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile feito em **React Native + Expo**, com backend em **Supabase**, focado em coleta seletiva/reciclagem.
 
