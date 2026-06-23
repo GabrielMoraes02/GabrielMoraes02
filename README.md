@@ -1,38 +1,91 @@
-# 👩🏻‍💻 Gabriel Moraes
+<h1 align="center">👨🏻‍💻 Gabriel Moraes</h1>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <b><code>Desenvolvedor FullStack</code></b>
+</p>
 
-Me chamo Gabriel Resende de Moraes, Graduado em Ciência da Computação e atualmente cursando pós-graduação em Desenvolvimento Full Stack na PUC-Rio. Fluente em inglês, com experiência internacional nos Estados Unidos. Possuo conhecimentos em HTML, CSS, Java, Python e C#. Experiência em análise de dados e Power BI, com desenvolvimento de dashboards interativos e automação de relatórios para apoiar a tomada de decisão estratégica. Entusiasta do desenvolvimento de software e da resolução de problemas complexos por meio da tecnologia.".
+<p align="center">
+  Disponível para novas oportunidades 🟢
+</p>
 
+---
 
+### 👋 Sobre mim
+
+Me chamo **Gabriel Resende de Moraes**, tenho 24 anos e sou natural do Rio de Janeiro. Sou graduado em **Ciência da Computação** pela Estácio e estou cursando pós-graduação em **Desenvolvimento Full Stack na PUC-Rio** (conclusão prevista em 01/2027).
+
+Minha trajetória começou na área de **dados** — montando dashboards interativos no Power BI, criando KPIs e automatizando relatórios — antes de migrar para o desenvolvimento de software. Hoje uno essas duas frentes, construindo aplicações full stack pensando em como os dados sustentam decisões reais.
+
+Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu fluência em inglês e experiência em ambientes multiculturais.
+
+🌐 Confira meu portfólio: **[gabrielmoraes.dev.br](https://www.gabrielmoraes.dev.br)**
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+**Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>
 
-  
-<br/>
-<br/>
-## Contacts:
+**Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
 
-<div>
-<a href="https://www.instagram.com/gbzinnn98/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/gbzinnnn21" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:gbmoraes196@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-moraes98/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br>
-<hr>
-<div>
-<a href="https://github.com/GabrielMoraes02">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraes02&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraes02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-</div>
-<br>
-<hr>
+**Bancos de Dados**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
+**DevOps & Ferramentas**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
+---
+
+### 📫 Contatos
+
+<p>
+  <a href="mailto:gbmoraes196@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-moraes98/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5521982487195" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gabrielmoraesr_02/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.gabrielmoraes.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMoraes02&show_icons=true&theme=dracula&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraes02&layout=compact&theme=dracula" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoraes02&theme=dracula" width="60%" />
+</p>
