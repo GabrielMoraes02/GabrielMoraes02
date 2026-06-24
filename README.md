@@ -76,7 +76,9 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
 
 - **[site_rifa](https://github.com/GabrielMoraes02/site_rifa)** — Sistema de rifa online com **Django**, painel administrativo, pagamento via **Mercado Pago** (Pix/checkout), upload de imagens com **Cloudinary**, envio de e-mails transacionais com **Brevo** e deploy na **Vercel**.
 
-- **[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile feito em **React Native + Expo**, com backend em **Supabase**, focado em coleta seletiva/reciclagem.
+- **[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile em **TypeScript + React Native (Expo Router)**, com mapa de pontos de coleta via GPS (`react-native-maps`) e backend em **Supabase** (PostgreSQL, Auth e Storage), focado em coleta seletiva/reciclagem.
+
+- **Bot de Automação (Discord)** — Bot que agiliza a entrada de dados de membros direto pelo servidor, integrando automaticamente com planilhas Excel e gerando relatórios de desempenho conectados a dashboards em **Power BI**. Feito em **Python** e **JavaScript**.
 
 ---
 
