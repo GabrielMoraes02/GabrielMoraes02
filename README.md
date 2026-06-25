@@ -29,6 +29,8 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" style="background-color:white; border-radius:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" style="background-color:white; border-radius:4px;"/>
@@ -76,7 +78,11 @@ Vivi 6 meses em **Jacksonville, Flórida (EUA)**, em um intercâmbio que me deu 
 
 - **[site_rifa](https://github.com/GabrielMoraes02/site_rifa)** — Sistema de rifa online com **Django**, painel administrativo, pagamento via **Mercado Pago** (Pix/checkout), upload de imagens com **Cloudinary**, envio de e-mails transacionais com **Brevo** e deploy na **Vercel**.
 
-- **[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile em **TypeScript + React Native (Expo Router)**, com mapa de pontos de coleta via GPS (`react-native-maps`) e backend em **Supabase** (PostgreSQL, Auth e Storage), focado em coleta seletiva/reciclagem.
+- **[ecocoleta](https://github.com/GabrielMoraes02)** — App mobile focado em coleta seletiva/reciclagem.
+  - **App**: TypeScript, React Native, Expo (SDK 56), Expo Router, `react-native-maps`, `expo-location` (GPS)
+  - **Backend/Banco**: Supabase (PostgreSQL, Auth, Storage, API REST automática) e SQL (migrations e políticas RLS)
+  - **Ambiente**: Docker (Supabase local), Git, Node.js/npm; configuração nativa Android gerada via `prebuild` (Java/Kotlin/Gradle)
+  - **Roadmap**: versão web/site em Next.js (TypeScript)
 
 - **Bot de Automação (Discord)** — Bot que agiliza a entrada de dados de membros direto pelo servidor, integrando automaticamente com planilhas Excel e gerando relatórios de desempenho conectados a dashboards em **Power BI**. Feito em **Python** e **JavaScript**.
 
